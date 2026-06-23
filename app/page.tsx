@@ -26,7 +26,7 @@ export default function Home() {
         </div>
 
         <div className="relative z-10 mt-8 text-center">
-          <p className="mb-2 text-xs font-bold uppercase">Portfolio 2026</p>
+          <p className="mb-2 text-xs font-bold uppercase">Portfolio</p>
           <h1 className="mx-auto max-w-6xl text-6xl font-black leading-none sm:text-8xl md:text-[8rem] lg:text-[10rem]">
             FANEVA
           </h1>
