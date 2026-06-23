@@ -1,5 +1,5 @@
 export const person = {
-  fullName: "Henriella Faneva Randriamihajarivo",
+  fullName: "Randriamihajarivo Henriella Faneva",
   displayName: "Faneva",
   role: "Product Owner",
   location: "Ankofafa Fianarantsoa",
@@ -7,7 +7,7 @@ export const person = {
   phone: "034 66 839 33",
   birthDate: "08/04/2004",
   social: {
-    facebook: "Henriella",
+    facebook: "Randriamihajarivo Faneva Henriella",
     instagram: "@RANDRIAMIHAJARIVO Henriella",
   },
 };
