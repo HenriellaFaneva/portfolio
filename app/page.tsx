@@ -81,8 +81,8 @@ export default function Home() {
           </div>
           <div className="self-end">
             <p className="max-w-2xl text-base leading-7 text-black/70">
-              Née le {person.birthDate} et basée à {person.location}, Faneva
-              construit son parcours entre product ownership, animation
+              Née le {person.birthDate} et basée à {person.location}, J'ai
+              construit mon parcours entre product ownership, animation
               d&apos;événements, présentation de projets et interprétation.
             </p>
             <div className="mt-6 grid gap-3 sm:grid-cols-3">
@@ -105,7 +105,7 @@ export default function Home() {
             Compétences pour porter les projets plus loin.
           </h2>
           <p className="max-w-2xl text-base leading-7 text-black/65">
-            Ses atouts, gestion de stress et aptitude à travailler en équipe,
+            Mes atouts, gestion de stress et aptitude à travailler en équipe,
             complètent une base solide en communication publique et pilotage de
             projets.
           </p>
@@ -138,7 +138,7 @@ export default function Home() {
               href="/parcours"
               className="w-fit rounded-full border border-white/25 px-5 py-3 text-sm font-bold text-white transition hover:border-[#fff200] hover:bg-[#fff200] hover:text-black"
             >
-              Voir le parcours
+              Voir mon parcours
             </Link>
           </div>
 
