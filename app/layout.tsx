@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Henriella Faneva Randriamihajarivo | Portfolio",
+  title: "Randriamihajarivo Henriella Faneva | Portfolio",
   description:
-    "Portfolio de Henriella Faneva Randriamihajarivo, Product Owner et communicante basée à Fianarantsoa.",
+    "Portfolio de Randriamihajarivo Henriella Faneva, Product Owner et communicante basée à Fianarantsoa.",
   verification: {
     google : 'HuAsnY_JrInXSxi4-CYlSgIeRkYUJ82ynTOT-G7n5PM',
   }  
