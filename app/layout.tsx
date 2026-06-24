@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Portfolio de Henriella Faneva Randriamihajarivo, Product Owner et communicante basée à Fianarantsoa.",
   verification: {
-    google : 'google-site-verification: googlee3b44f87ca3391d6.html',
+    google : 'googlee3b44f87ca3391d6',
   }  
 };
 
