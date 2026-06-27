@@ -6,6 +6,37 @@ export const metadata: Metadata = {
   title: "Randriamihajarivo Henriella Faneva | Portfolio",
   description:
     "Portfolio de Randriamihajarivo Henriella Faneva, Product Owner et communicante basée à Fianarantsoa.",
+
+    keywords: [
+    "Product Owner",
+    "Randriamihajarivo",
+    "Faneva",
+    "Henriella",
+    "Interprete",
+    "Fianarantsoa",
+    "Portfolio",
+    "Madagascar",
+  ],
+
+  authors: [{ name: "Randriamihajarivo Henriella Faneva" }],
+
+  openGraph: {
+    title: "Randriamihajarivo Henriella Faneva | Portfolio",
+    description:
+      "Portfolio de Randriamihajarivo Henriella Faneva, Product Owner et communicante basée à Fianarantsoa.",
+    url: "https://fanevahenriellaportfolio.vercel.app/",
+    siteName: "Portfolio Faneva",
+    images: [
+      {
+        url: "/preview.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+    locale: "fr_FR",
+    type: "website",
+  },
+
   verification: {
     google : 'HuAsnY_JrInXSxi4-CYlSgIeRkYUJ82ynTOT-G7n5PM',
   }  
@@ -22,7 +53,7 @@ export default function RootLayout({
         {children}
 
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"
+          src="https://www.googletagmanager.com/gtag/js?id=G-9YN13H48SS"
           strategy="afterInteractive"
         />
 
